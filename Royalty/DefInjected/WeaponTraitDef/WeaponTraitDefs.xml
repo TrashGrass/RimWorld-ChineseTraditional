@@ -2,98 +2,98 @@
 <LanguageData>
   
   <!-- EN: hunger pangs -->
-  <HungerMaker.label>TODO</HungerMaker.label>
+  <HungerMaker.label>飢餓</HungerMaker.label>
   <!-- EN: This weapon's persona loves food, and transmits that onto whoever bonds with it. The bonded person's hunger rate will be 50% higher. -->
-  <HungerMaker.description>TODO</HungerMaker.description>
+  <HungerMaker.description>這把武器喜歡食物，也連帶影響它的主人，這把武器的連結者的飢餓速率會提升50%</HungerMaker.description>
   
   <!-- EN: jealous -->
-  <Jealous.label>TODO</Jealous.label>
+  <Jealous.label>忌妒</Jealous.label>
   <!-- EN: This weapon's persona becomes angry when the bonded individual uses another weapon, thus reducing their mood. -->
-  <Jealous.description>TODO</Jealous.description>
+  <Jealous.description>這把武器在連結者使用其他武器時會變得憤怒，影響連結者的心情</Jealous.description>
   
   <!-- EN: kill thirst -->
-  <NeedKill.label>TODO</NeedKill.label>
+  <NeedKill.label>殺戮渴望</NeedKill.label>
   <!-- EN: This weapon's persona find purpose in bloodshed. If it does not kill for 20 days, it will become angry and psychically complain to whoever is bonded to it. -->
-  <NeedKill.description>TODO</NeedKill.description>
+  <NeedKill.description>這把武器只在血泊中才能發現自己的價值，如果它20天內沒有殺死任何東西，它會變得憤怒並向連結者抱怨</NeedKill.description>
   
   <!-- EN: neural cooling -->
-  <NeuralHeatRecoveryGain.label>TODO</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.label>神經冷卻</NeuralHeatRecoveryGain.label>
   <!-- EN: This weapon's persona has the ability to help dissipate the wielder's neural heat. The wielder's neural heat dissipation is improved by 0.15 per second. -->
-  <NeuralHeatRecoveryGain.description>TODO</NeuralHeatRecoveryGain.description>
+  <NeuralHeatRecoveryGain.description>這把武器可以幫助綁定者消散神經中的熱量，持有者的神經熱量冷卻速率提高0.15/每秒</NeuralHeatRecoveryGain.description>
   
   <!-- EN: freewielder -->
-  <NeverBond.label>TODO</NeverBond.label>
+  <NeverBond.label>自由武者</NeverBond.label>
   <!-- EN: This weapon's persona does not form bonds in the normal way. Anyone can pick it up and use it. -->
-  <NeverBond.description>TODO</NeverBond.description>
+  <NeverBond.description>這把武器並不像其他武器需要綁定，任何人都可以撿起並使用它</NeverBond.description>
   
   <!-- EN: painless -->
-  <NoPain.label>TODO</NoPain.label>
+  <NoPain.label>無痛</NoPain.label>
   <!-- EN: This weapon's persona has some method of psychically disabling pain. The one holding the weapon will feel no pain of any kind. -->
-  <NoPain.description>TODO</NoPain.description>
+  <NoPain.description>這把武器可以從心靈上消除痛苦，持有這把武器的人不會感受到任何形式的疼痛</NoPain.description>
   
   <!-- EN: kill-focused -->
-  <OnKill_PsyfocusGain.label>TODO</OnKill_PsyfocusGain.label>
+  <OnKill_PsyfocusGain.label>殺戮專注</OnKill_PsyfocusGain.label>
   <!-- EN: This weapon's persona focuses on deaths. If the weapon kills someone, the wielder will instantly gain 20% psyfocus. -->
-  <OnKill_PsyfocusGain.description>TODO</OnKill_PsyfocusGain.description>
+  <OnKill_PsyfocusGain.description>這把武器執著於死亡，如果這把武器殺死了任何人，使用者會得到20%的心靈專注</OnKill_PsyfocusGain.description>
   
   <!-- EN: kill sorrow -->
-  <OnKill_ThoughtBad.label>TODO</OnKill_ThoughtBad.label>
+  <OnKill_ThoughtBad.label>厭惡殺戮</OnKill_ThoughtBad.label>
   <!-- EN: This weapon's persona hates killing. If this weapon kills someone, its sorrow will transmit psychically to the wielder, reducing their mood for a few days. -->
-  <OnKill_ThoughtBad.description>TODO</OnKill_ThoughtBad.description>
+  <OnKill_ThoughtBad.description>這把武器厭惡殺戮，如果這把武器殺死了任何人，它的悲傷會轉移到持有者，在幾天內降低主人的心情</OnKill_ThoughtBad.description>
   
   <!-- EN: kill-happy -->
-  <OnKill_ThoughtGood.label>TODO</OnKill_ThoughtGood.label>
+  <OnKill_ThoughtGood.label>樂於殺戮</OnKill_ThoughtGood.label>
   <!-- EN: This weapon's persona loves to kill. If this weapon kills someone, its joy will transmit psychically to the wielder, making them happier for a few days. -->
-  <OnKill_ThoughtGood.description>TODO</OnKill_ThoughtGood.description>
+  <OnKill_ThoughtGood.description>這把武器喜歡殺人，如果它殺死任何人，它的喜悅會轉移到持有者，在幾天內提高主人的心情</OnKill_ThoughtGood.description>
   
   <!-- EN: psychic fog -->
-  <PsychicSensitivityDownMajor.label>TODO</PsychicSensitivityDownMajor.label>
+  <PsychicSensitivityDownMajor.label>心靈障蔽</PsychicSensitivityDownMajor.label>
   <!-- EN: This weapon suppresses the wielder's psychic sensitivity by 30%. This only applies while the weapon is held. -->
-  <PsychicSensitivityDownMajor.description>TODO</PsychicSensitivityDownMajor.description>
+  <PsychicSensitivityDownMajor.description>這把武器會壓制使用者的心靈敏感度30%，只有在持有武器時才會生效</PsychicSensitivityDownMajor.description>
   
   <!-- EN: psychic quiet -->
-  <PsychicSensitivityDownMinor.label>TODO</PsychicSensitivityDownMinor.label>
+  <PsychicSensitivityDownMinor.label>心靈冷靜</PsychicSensitivityDownMinor.label>
   <!-- EN: This weapon suppresses the wielder's psychic sensitivity by 15%. This only applies while the weapon is held. -->
-  <PsychicSensitivityDownMinor.description>TODO</PsychicSensitivityDownMinor.description>
+  <PsychicSensitivityDownMinor.description>這把武器會壓制使用者的心靈敏感度15%，只有在持有武器時才會生效</PsychicSensitivityDownMinor.description>
   
   <!-- EN: psychic hypersensitizer -->
-  <PsychicSensitivityUpMajor.label>TODO</PsychicSensitivityUpMajor.label>
+  <PsychicSensitivityUpMajor.label>超級敏感</PsychicSensitivityUpMajor.label>
   <!-- EN: This weapon amplifies the wielder's psychic sensitivity by 40%. This only applies while the weapon is held. -->
-  <PsychicSensitivityUpMajor.description>TODO</PsychicSensitivityUpMajor.description>
+  <PsychicSensitivityUpMajor.description>這把武器會提高使用者的心靈敏感度40%，只有在持有武器時才生效</PsychicSensitivityUpMajor.description>
   
   <!-- EN: psychic sensitizer -->
-  <PsychicSensitivityUpMinor.label>TODO</PsychicSensitivityUpMinor.label>
+  <PsychicSensitivityUpMinor.label>心靈敏感</PsychicSensitivityUpMinor.label>
   <!-- EN: This weapon amplifies the wielder's psychic sensitivity by 20%. This only applies while the weapon is held. -->
-  <PsychicSensitivityUpMinor.description>TODO</PsychicSensitivityUpMinor.description>
+  <PsychicSensitivityUpMinor.description>這把武器會提高使用者的心靈敏感度20%，只有在持有武器時才生效</PsychicSensitivityUpMinor.description>
   
   <!-- EN: psy-meditative -->
-  <PsyfocusMeditationBonus.label>TODO</PsyfocusMeditationBonus.label>
+  <PsyfocusMeditationBonus.label>冥想</PsyfocusMeditationBonus.label>
   <!-- EN: This weapon's persona is naturally meditative and helps its wielder focus in psychic meditation. The wielder gains an extra 10% psyfocus per day of meditation, as long as the weapon is held. -->
-  <PsyfocusMeditationBonus.description>TODO</PsyfocusMeditationBonus.description>
+  <PsyfocusMeditationBonus.description>這把武器會自然的冥想，只要持有武器，使用者每天會額外獲得10%的心靈專注</PsyfocusMeditationBonus.description>
   
   <!-- EN: fast mover -->
-  <SpeedBoost.label>TODO</SpeedBoost.label>
+  <SpeedBoost.label>快步</SpeedBoost.label>
   <!-- EN: This weapon's persona has a sense of motion. It confers this onto the wielder, making them move 15% faster as long as the weapon is held. -->
-  <SpeedBoost.description>TODO</SpeedBoost.description>
+  <SpeedBoost.description>這把武器非常靈活，這影響了它的連結者，只要持有武器，連結的的移動速度會上升15%</SpeedBoost.description>
   
   <!-- EN: calm thoughts -->
-  <ThoughtCalm.label>TODO</ThoughtCalm.label>
+  <ThoughtCalm.label>冷靜</ThoughtCalm.label>
   <!-- EN: This weapon's persona is relaxed and steady. It whispers calming thoughts to whoever it is bonded with, increasing their mood. -->
-  <ThoughtCalm.description>TODO</ThoughtCalm.description>
+  <ThoughtCalm.description>這把武器的人格放鬆且冷靜，它會向連結者低語，增加連結者的心情</ThoughtCalm.description>
   
   <!-- EN: kind thoughts -->
-  <ThoughtKind.label>TODO</ThoughtKind.label>
+  <ThoughtKind.label>善良</ThoughtKind.label>
   <!-- EN: This weapon's persona is kind and supportive. It whispers kind thoughts to whoever it is bonded with, increasing their mood. -->
-  <ThoughtKind.description>TODO</ThoughtKind.description>
+  <ThoughtKind.description>這把武器的人格非常善良，它會向連結者低語，增加連結者的心情</ThoughtKind.description>
   
   <!-- EN: mad muttering -->
-  <ThoughtMuttering.label>TODO</ThoughtMuttering.label>
+  <ThoughtMuttering.label>碎碎念</ThoughtMuttering.label>
   <!-- EN: This weapon's persona is neurotic and unstable. It mutters mad thoughts to whoever it is bonded with, reducing their mood. -->
-  <ThoughtMuttering.description>TODO</ThoughtMuttering.description>
+  <ThoughtMuttering.description>這把武器非常神經質而且不穩定，它會對連結者碎碎念，減少使用者的心情</ThoughtMuttering.description>
   
   <!-- EN: mad wailing -->
-  <ThoughtWailing.label>TODO</ThoughtWailing.label>
+  <ThoughtWailing.label>哀號</ThoughtWailing.label>
   <!-- EN: This weapon's persona is highly disturbed and won't shut up about it. It wails mad notions to whoever it is bonded with, suppressing their mood. -->
-  <ThoughtWailing.description>TODO</ThoughtWailing.description>
+  <ThoughtWailing.description>這把武器非常不安又吵雜，它會對連結者靠么，減少使用者的心情</ThoughtWailing.description>
   
 </LanguageData>
