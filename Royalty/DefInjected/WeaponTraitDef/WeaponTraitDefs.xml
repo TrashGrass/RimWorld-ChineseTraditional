@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: hunger pangs -->
-  <HungerMaker.label>飢餓</HungerMaker.label>
+  <HungerMaker.label>暴食</HungerMaker.label>
   <!-- EN: This weapon's persona loves food, and transmits that onto whoever bonds with it. The bonded person's hunger rate will be 50% higher. -->
   <HungerMaker.description>這把武器喜歡食物，也連帶影響它的主人，這把武器的連結者的飢餓速率會提升50%</HungerMaker.description>
   
   <!-- EN: jealous -->
-  <Jealous.label>忌妒</Jealous.label>
+  <Jealous.label>妒忌</Jealous.label>
   <!-- EN: This weapon's persona becomes angry when the bonded individual uses another weapon, thus reducing their mood. -->
   <Jealous.description>這把武器在連結者使用其他武器時會變得憤怒，影響連結者的心情</Jealous.description>
   
@@ -34,15 +34,15 @@
   <!-- EN: kill-focused -->
   <OnKill_PsyfocusGain.label>殺戮專注</OnKill_PsyfocusGain.label>
   <!-- EN: This weapon's persona focuses on deaths. If the weapon kills someone, the wielder will instantly gain 20% psyfocus. -->
-  <OnKill_PsyfocusGain.description>這把武器執著於死亡，如果這把武器殺死了任何人，使用者會得到20%的心靈專注</OnKill_PsyfocusGain.description>
+  <OnKill_PsyfocusGain.description>這把武器執著於死亡，如果這把武器殺死了任何人，使用者會得到20%的精神力</OnKill_PsyfocusGain.description>
   
   <!-- EN: kill sorrow -->
-  <OnKill_ThoughtBad.label>厭惡殺戮</OnKill_ThoughtBad.label>
+  <OnKill_ThoughtBad.label>殺生厭棄</OnKill_ThoughtBad.label>
   <!-- EN: This weapon's persona hates killing. If this weapon kills someone, its sorrow will transmit psychically to the wielder, reducing their mood for a few days. -->
   <OnKill_ThoughtBad.description>這把武器厭惡殺戮，如果這把武器殺死了任何人，它的悲傷會轉移到持有者，在幾天內降低主人的心情</OnKill_ThoughtBad.description>
   
   <!-- EN: kill-happy -->
-  <OnKill_ThoughtGood.label>樂於殺戮</OnKill_ThoughtGood.label>
+  <OnKill_ThoughtGood.label>殺戮歡愉</OnKill_ThoughtGood.label>
   <!-- EN: This weapon's persona loves to kill. If this weapon kills someone, its joy will transmit psychically to the wielder, making them happier for a few days. -->
   <OnKill_ThoughtGood.description>這把武器喜歡殺人，如果它殺死任何人，它的喜悅會轉移到持有者，在幾天內提高主人的心情</OnKill_ThoughtGood.description>
   
@@ -77,22 +77,22 @@
   <SpeedBoost.description>這把武器非常靈活，這影響了它的連結者，只要持有武器，連結的的移動速度會上升15%</SpeedBoost.description>
   
   <!-- EN: calm thoughts -->
-  <ThoughtCalm.label>冷靜</ThoughtCalm.label>
+  <ThoughtCalm.label>寧靜</ThoughtCalm.label>
   <!-- EN: This weapon's persona is relaxed and steady. It whispers calming thoughts to whoever it is bonded with, increasing their mood. -->
   <ThoughtCalm.description>這把武器的人格放鬆且冷靜，它會向連結者低語，增加連結者的心情</ThoughtCalm.description>
   
   <!-- EN: kind thoughts -->
-  <ThoughtKind.label>善良</ThoughtKind.label>
+  <ThoughtKind.label>溫柔</ThoughtKind.label>
   <!-- EN: This weapon's persona is kind and supportive. It whispers kind thoughts to whoever it is bonded with, increasing their mood. -->
-  <ThoughtKind.description>這把武器的人格非常善良，它會向連結者低語，增加連結者的心情</ThoughtKind.description>
+  <ThoughtKind.description>這把武器的人格非常善良，它會鼓勵連結者，增加連結者的心情</ThoughtKind.description>
   
   <!-- EN: mad muttering -->
-  <ThoughtMuttering.label>碎碎念</ThoughtMuttering.label>
+  <ThoughtMuttering.label>喃喃自語</ThoughtMuttering.label>
   <!-- EN: This weapon's persona is neurotic and unstable. It mutters mad thoughts to whoever it is bonded with, reducing their mood. -->
-  <ThoughtMuttering.description>這把武器非常神經質而且不穩定，它會對連結者碎碎念，減少使用者的心情</ThoughtMuttering.description>
+  <ThoughtMuttering.description>這把武器非常神經質而且不穩定，它會對連結者喃喃自語，減少使用者的心情</ThoughtMuttering.description>
   
   <!-- EN: mad wailing -->
-  <ThoughtWailing.label>哀號</ThoughtWailing.label>
+  <ThoughtWailing.label>哀嚎</ThoughtWailing.label>
   <!-- EN: This weapon's persona is highly disturbed and won't shut up about it. It wails mad notions to whoever it is bonded with, suppressing their mood. -->
   <ThoughtWailing.description>這把武器非常不安又吵雜，它會對連結者靠么，減少使用者的心情</ThoughtWailing.description>
   
